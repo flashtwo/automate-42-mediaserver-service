@@ -1,0 +1,22 @@
+{
+    "name": "automate-42-mediaserver-service",
+    "version": "1.0.0",
+    "description": "Service for commanding the content of your local media server.",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "flashtwo",
+    "license": "ISC",
+    "dependencies": {
+        "deluge": "git://github.com/flashtwo/deluge.git#webui-data",
+        "seneca": "^3.2.2"
+    },
+    "devDependencies": {
+        "babel-preset-es2015": "^6.18.0",
+        "gulp": "^3.9.1",
+        "gulp-babel": "^6.1.2",
+        "gulp-nodemon": "^2.2.1",
+        "gulp-print": "^2.0.1"
+    }
+}
