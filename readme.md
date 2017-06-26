@@ -1,11 +1,13 @@
 # automate-42-mediaserver-service
 
-### build
+Service for simple interactions with Deluge torrent api
+
+#### build
 ```sh
 gulp build
 ```
 
-### build, serve, and watch in dev environment
+#### serve in dev environment
 ```sh
-gulp build
+gulp serve
 ```
