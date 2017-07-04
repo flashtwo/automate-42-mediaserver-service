@@ -9,7 +9,7 @@
     "author": "flashtwo",
     "license": "ISC",
     "dependencies": {
-        "deluge": "git://github.com/flashtwo/deluge.git#webui-data",
+        "deluge": "git://github.com/orange-lightsaber/deluge.git#webui-data",
         "seneca": "^3.2.2"
     },
     "devDependencies": {
