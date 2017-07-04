@@ -6,7 +6,7 @@
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "author": "flashtwo",
+    "author": "julian",
     "license": "ISC",
     "dependencies": {
         "deluge": "git://github.com/orange-lightsaber/deluge.git#webui-data",
